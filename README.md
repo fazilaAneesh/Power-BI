@@ -40,6 +40,7 @@ Analytics - Use expressions and filters to build custom visualizations
 4. % of Applications by Race
 
 **Dashboard - Universities Analysis**
+
 5. Top 10 Universities by Applications
 6. Top 10 Universities by Applications with and without Special Grants
 7. Bottom 10 Universities by Applications
